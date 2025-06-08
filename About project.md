@@ -6,7 +6,7 @@
 - Планшет Android c установленным приложением Blynk IoT
 - Ноутбук с Arduino IDE
 
-**Настройка Blynk 
+##Настройка Blynk 
 
 Установите приложение Blynk IoT и выполните вход.
 Выберите quick start device.

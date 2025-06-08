@@ -47,8 +47,10 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/master/package_esp32_i
 
 Для подключения видеопотока через клиент можно использовать serveo.
 В терминале вводим ssh -R 80:<ваш ip из serial monitor>:80 serveo.net
+
 Соглашаемся и копируем предоставленный адрес, добавляя в конце /mjpeg/1
 
+Далее вставляем ссылку в blynk или в браузер.
 
 
 

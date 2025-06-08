@@ -6,7 +6,7 @@
 - Планшет Android c установленным приложением Blynk IoT
 - Ноутбук с Arduino IDE
 
-**Настройка Blynk**
+*Настройка Blynk*
 
 Установите приложение Blynk IoT и выполните вход.
 Выберите quick start device.
@@ -20,7 +20,7 @@ URL: Введите http://192.168.1.100/mjpeg/1 (замените 192.168.1.100
 Stream Type: Выберите MJPEG.
 Play/Pause: Включите, чтобы запускать/останавливать поток.
 
-**Настройка Arduino IDE для ESP32-CAM
+*Настройка Arduino IDE для ESP32-CAM*
 
 Установите Arduino IDE (если ещё не установлено):
 Используйте Arduino IDE версии 2.3.3 или новее.

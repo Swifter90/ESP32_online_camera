@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL4sRG6t46q"
-#define BLYNK_TEMPLATE_NAME "Quickstart Device"
-#define BLYNK_AUTH_TOKEN "UO8rK-lkfZMlfey_jR3JKo-kSxfTzl9c"
+#define BLYNK_TEMPLATE_ID "Введите свой BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "Введите свой BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "Введите свой BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <esp_camera.h>
@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // WiFi credentials
-const char* ssid = "Beeline_2G_F15FF5";
-const char* password = "vKRAJ6WAJu";
+const char* ssid = "Введите название wifi";
+const char* password = "Введите пароль от wifi";
 
 // Camera pins for AI Thinker ESP32-CAM
 #define PWDN_GPIO_NUM     32
